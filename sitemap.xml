@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/a/</loc>
+    <loc>https://whaleshome926.github.io/categories/a/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/bb/</loc>
+    <loc>https://whaleshome926.github.io/categories/bb/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://whaleshome926.github.io/categories/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mountain/</loc>
+    <loc>https://whaleshome926.github.io/tags/mountain/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://whaleshome926.github.io/post/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://whaleshome926.github.io/tags/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/%E5%A4%9A%E6%91%A9%E7%99%BB%E5%B1%B1/tama/</loc>
+    <loc>https://whaleshome926.github.io/post/%E5%A4%9A%E6%91%A9%E7%99%BB%E5%B1%B1/tama/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://whaleshome926.github.io/</loc>
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/memo/</loc>
+    <loc>https://whaleshome926.github.io/tags/memo/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/%E7%AD%91%E6%B3%A2%E5%B1%B1%E7%99%BB%E5%B1%B1/mountain/</loc>
+    <loc>https://whaleshome926.github.io/post/%E7%AD%91%E6%B3%A2%E5%B1%B1%E7%99%BB%E5%B1%B1/mountain/</loc>
     <lastmod>2025-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://whaleshome926.github.io/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/archives/</loc>
+    <loc>https://whaleshome926.github.io/page/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/search/</loc>
+    <loc>https://whaleshome926.github.io/page/search/</loc>
   </url>
 </urlset>
